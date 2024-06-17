@@ -1,4 +1,8 @@
-# Astro Starter Kit: Basics
+# Astro RBAC Example
+
+## Astro Template
+
+The following documentation is the basic Astro template docs
 
 ```sh
 npm create astro@latest -- --template basics
